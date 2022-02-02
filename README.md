@@ -1,6 +1,6 @@
 # MobiGarage project-website
 
-This project was about a mobile application called MobiGarage. This is a flutter app that can run android as per now.
+This project was about a mobile application called MobiGarage. This is a flutter app that can run on android as per now.
 
 # Features
 - Enable drivers to easily locate Oriental Motors incase of any emergency

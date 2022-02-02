@@ -3,28 +3,28 @@
 This project was about a mobile application called MobiGarage. This is a flutter app that can run android as per now.
 
 # Features
-->Enable drivers to easily locate Oriental Motors incase of any emergency
-->Book for car services
-->Order for spare parts
-->Access to mechanical advice or FAQs
+-Enable drivers to easily locate Oriental Motors incase of any emergency
+-Book for car services
+-Order for spare parts
+-Access to mechanical advice or FAQs
 
 # App Preview
 
 
 This app has been tested and worked as expected on:
-  -> Chrome 77
-  -> Safari 12
-  -> Firefox 68
-  -> Windows 10
-  -> Chrome 77
-  -> Firefox 68
-  -> Edge 44
-  -> Android 7, 8, 9, and 10
-  -> Chrome 77
-  -> Firefox 68
-  -> Chrome 77
-  -> Safari
-  -> Firefox 18
+  - Chrome 77
+  - Safari 12
+  - Firefox 68
+  - Windows 10
+  - Chrome 77
+  - Firefox 68
+  - Edge 44
+  - Android 7, 8, 9, and 10
+  - Chrome 77
+  - Firefox 68
+  - Chrome 77
+  - Safari
+  - Firefox 18
 
 # Future Plans for Feature Enhancement
 Here are several features that we plan to add in the application in the future. If you wish to contribute, please email us to discuss the on the design.

@@ -4,6 +4,8 @@ This project was about a mobile application called MobiGarage. This is a flutter
 
 # Features
 - Firefox 18
+- Firefox 18
+- Firefox 18
     Enable drivers to easily locate Oriental Motors incase of any emergency
     Book for car services
     Order for spare parts-Access to mechanical advice or FAQs

@@ -5,8 +5,7 @@ This project was about a mobile application called MobiGarage. This is a flutter
 # Features
   -Enable drivers to easily locate Oriental Motors incase of any emergency
   -Book for car services
-  -Order for spare parts
-  -Access to mechanical advice or FAQs
+  -Order for spare parts-Access to mechanical advice or FAQs
 
 # App Preview
 

@@ -1,5 +1,5 @@
 /*************************************************************************
- * GitHub: https://github.com/yenchiah/project-website-template
+ * GitHub: https://github.com/emmywilliams/emmywilliams.github.io
  * Version: v3.29
  * This JS file has widgets for building interactive web applications
  * Use this file with widgets.css
